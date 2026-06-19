@@ -1,0 +1,112 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Combat Boost v5 — client-data.yaml for Kick Start Martial Arts Atlanta
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+SLUG: "kick-start-ma-atlanta"
+SCHOOL_NAME: "Kick Start Martial Arts"
+MARTIAL_ART: "Tang Soo Do"
+SITE_URL: "https://kick-start-ma-atlanta.pages.dev"
+DOMAIN: "kick-start-ma-atlanta.pages.dev"
+
+# ── Location ──────────────────────────────────────────────────────────────────
+CITY: "Atlanta"
+STATE: "GA"
+ZIP: "30315"
+ADDRESS_LINE_1: "1039 Grant St SE, Suite A22"
+
+# ── Contact ───────────────────────────────────────────────────────────────────
+PHONE: "(404) 664-3485"
+EMAIL: "kickstartatl@gmail.com"
+HOURS: "Mon–Fri 4:00–8:30 PM · Sat 8:30 AM–12:30 PM"
+DAYS_OPEN: "Mon–Sat"
+
+# ── Founding year ─────────────────────────────────────────────────────────────
+# ⚠️  Verify with client — site says "many great years" and est. reviews go back to 2016
+YEAR_FOUNDED: "2010"
+
+# ── Branding ──────────────────────────────────────────────────────────────────
+PRIMARY_COLOR: "#CC0000"
+SECONDARY_COLOR: "#111827"
+LOGO_IMAGE: "brand_assets/logo.jpg"
+FACEBOOK_URL: "https://www.facebook.com/KSAtlantamartialarts"
+INSTAGRAM_URL: ""
+
+# ── Hero section ──────────────────────────────────────────────────────────────
+HERO_IMAGE: "images/hero/hero.jpg"
+HERO_HEADLINE: "Atlanta's Home for Tang Soo Do"
+HERO_SUBHEADLINE: "Where Self-Confidence, Self-Esteem & Leadership Skills Are Developed"
+HERO_SUBTEXT: "Kick Start Martial Arts has been a landmark of Atlanta martial arts for over a decade. Programs for children ages 5 and up through adult, led by Master Renard Beaty in the heart of Grant Park. Book your free trial class today."
+
+# ── Social proof ──────────────────────────────────────────────────────────────
+STAR_RATING: "4.9"
+REVIEW_COUNT: "67"
+GOOGLE_PLACE_ID: "ChIJvWMGjY0D9YgRMStJaMItKWU"
+
+# ── About section ─────────────────────────────────────────────────────────────
+ABOUT_TEXT: "Kick Start Martial Arts has been developing confident, disciplined, and focused individuals through the art of Tang Soo Do for over a decade in Atlanta's Grant Park neighborhood. Founded and led by Master Renard Beaty, the school has earned a reputation as one of Atlanta's most respected martial arts programs — not because of flashy facilities, but because of what actually happens to students on the mat. Kids learn to focus, earn their belts honestly, and carry those lessons home. Adults discover that martial arts is the most effective self-improvement system in the world. Hundreds of families across Atlanta, East Atlanta, Grant Park, Ormewood Park, Kirkwood, Inman Park, and Decatur have trained here and seen it for themselves."
+
+# ── Instructor 1 (required) ───────────────────────────────────────────────────
+INSTRUCTOR_1_NAME: "Master Renard Beaty"
+INSTRUCTOR_1_PHOTO: "images/instructor/instructor-1/main.jpg"
+INSTRUCTOR_1_TITLE: "Founder & Head Instructor · Tang Soo Do Black Belt"
+INSTRUCTOR_1_BIO: "Master Renard Beaty founded Kick Start Martial Arts with a clear mission: use the discipline of Tang Soo Do to develop self-confidence, self-esteem, and leadership skills in every student who walks through the door. For over a decade, he has built one of Atlanta's most trusted martial arts programs in the Grant Park community — one where belts are earned by demonstrating real technique and real character, never handed out. Students who train under Master Beaty don't just get better at martial arts. They get better at focus, at school, at handling pressure — and they keep coming back because this school has become a second home."
+
+# ── Program 1 — Lil' Ninjas ───────────────────────────────────────────────────
+PROGRAM_1_NAME: "Lil' Ninjas"
+PROGRAM_1_PHOTO: "images/programs/program-1/main.jpg"
+PROGRAM_1_AGE_RANGE: "Ages 5–7"
+PROGRAM_1_DAYS: "Mon–Fri"
+PROGRAM_1_SESSION_LEN: "45-min classes"
+PROGRAM_1_DESCRIPTION: "Specially designed for children ages 5–7, Lil' Ninjas gives young students their first experience of discipline, focus, and fun through Tang Soo Do. Short, high-energy classes build listening skills, coordination, and self-confidence that prepare kids for school and life at home. The character-building curriculum teaches sharing, respect for adults, and the value of persistence — all wrapped in the excitement of martial arts."
+PROGRAM_1_AUDIENCE_KIDS: "1"
+
+# ── Program 2 — Basic Youth ───────────────────────────────────────────────────
+PROGRAM_2_NAME: "Basic Youth"
+PROGRAM_2_PHOTO: "images/programs/program-2/main.jpg"
+PROGRAM_2_AGE_RANGE: "Ages 8–13"
+PROGRAM_2_DAYS: "Mon–Fri"
+PROGRAM_2_SESSION_LEN: "60-min classes"
+PROGRAM_2_DESCRIPTION: "Our flagship program for kids ages 8–13 develops focus, self-esteem, and self-confidence in a way no other sport or activity can match. Hundreds of Atlanta-area families have seen the results firsthand — improved grades, better behavior at home, and kids who carry themselves differently. Belt progression is real: every rank is earned by demonstrating technique and character, not by showing up long enough."
+PROGRAM_2_AUDIENCE_KIDS: "1"
+PROGRAM_2_AUDIENCE_TEENS: "1"
+
+# ── Program 3 — Basic Adult ───────────────────────────────────────────────────
+PROGRAM_3_NAME: "Basic Adult"
+PROGRAM_3_PHOTO: "images/programs/program-3/main.jpg"
+PROGRAM_3_AGE_RANGE: "Ages 14 & Up"
+PROGRAM_3_DAYS: "Mon–Fri"
+PROGRAM_3_SESSION_LEN: "60-min classes"
+PROGRAM_3_DESCRIPTION: "Tang Soo Do for adults is one of Atlanta's most effective ways to get fit, build real self-defense skills, and develop the mental discipline that pays off every day at work, at home, and in every interaction. Every movement in class has a purpose — a self-defense purpose. Students from 18 to 80 tell us they use the confidence and focus they build in class everywhere else in their lives."
+PROGRAM_3_AUDIENCE_TEENS: "1"
+PROGRAM_3_AUDIENCE_ADULTS: "1"
+
+# ── Class schedule ────────────────────────────────────────────────────────────
+CLASS_SCHEDULE_HTML: "<table class=\"sched\" role=\"table\" aria-label=\"Weekly class schedule\"><thead><tr><th scope=\"col\">Program</th><th scope=\"col\">Mon</th><th scope=\"col\">Tue</th><th scope=\"col\">Wed</th><th scope=\"col\">Thu</th><th scope=\"col\">Fri</th><th scope=\"col\">Sat</th></tr></thead><tbody><tr><td>Lil' Ninjas<br><small style=\"color:#64748b\">Ages 5–7</small></td><td><span class=\"time-slot kids\">Evenings</span></td><td><span class=\"time-slot kids\">Evenings</span></td><td><span class=\"time-slot kids\">Evenings</span></td><td><span class=\"time-slot kids\">Evenings</span></td><td><span class=\"time-slot kids\">Evenings</span></td><td><span class=\"time-empty\">—</span></td></tr><tr><td>Basic Youth<br><small style=\"color:#64748b\">Ages 8–13</small></td><td><span class=\"time-slot kids\">4:00–8:30 PM</span></td><td><span class=\"time-slot kids\">4:00–8:30 PM</span></td><td><span class=\"time-slot kids\">4:00–8:30 PM</span></td><td><span class=\"time-slot kids\">4:00–8:30 PM</span></td><td><span class=\"time-slot kids\">4:00–8:00 PM</span></td><td><span class=\"time-slot kids\">8:30 AM–12:30 PM</span></td></tr><tr><td>Basic Adult<br><small style=\"color:#64748b\">Ages 14+</small></td><td><span class=\"time-slot adult\">4:00–8:30 PM</span></td><td><span class=\"time-slot adult\">4:00–8:30 PM</span></td><td><span class=\"time-slot adult\">4:00–8:30 PM</span></td><td><span class=\"time-slot adult\">4:00–8:30 PM</span></td><td><span class=\"time-slot adult\">4:00–8:00 PM</span></td><td><span class=\"time-slot adult\">8:30 AM–12:30 PM</span></td></tr></tbody></table><p style=\"margin-top:8px;font-size:0.875rem;color:#64748b;font-style:italic\">Call (404) 664-3485 to confirm specific class times within the listed windows.</p>"
+
+# ── Google reviewers ──────────────────────────────────────────────────────────
+REVIEWER_1_NAME: "Jordyn Jennings"
+REVIEWER_1_DATE: "2 months ago"
+REVIEWER_1_TEXT: "I've been a student at Kick Start Martial Arts since I was 9 years old, and it truly feels like a second family. Earning my 3rd degree black belt has been an incredible journey filled with challenges and growth. The instructors genuinely care about each student's development — I can't recommend this place enough."
+
+REVIEWER_2_NAME: "Nate Shivar"
+REVIEWER_2_DATE: "a year ago"
+REVIEWER_2_TEXT: "Kick Start Martial Arts & Master Beaty run such a great program. We had a great experience while taking lessons. My kids definitely remember it well even years after they moved to different activities. Highly recommend for any family looking for a disciplined, caring environment."
+
+REVIEWER_3_NAME: "Melanie Williams"
+REVIEWER_3_DATE: "4 years ago"
+REVIEWER_3_TEXT: "Our son has been a student since age 5 after attending little ninja summer camp and having a great experience. He's now 8 and has advanced to the beginner classes where his interest in martial arts has only grown. This program truly develops the whole child."
+
+REVIEWER_4_NAME: "Jennifer Hardy-Moton"
+REVIEWER_4_DATE: "2 years ago"
+REVIEWER_4_TEXT: "My child has a safe and structured place to learn martial arts. She is excited about attending classes and has the opportunity to learn leadership skills along the way. Master Beaty cares for the students and it shows in everything he does."
+
+# ── GHL Webhooks — PLACEHOLDER values, replace before launch ──────────────────
+TRIAL_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/KSMA_PLACEHOLDER/webhook-trigger/trial"
+STARTER_KIT_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/KSMA_PLACEHOLDER/webhook-trigger/kit"
+QUIZ_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/KSMA_PLACEHOLDER/webhook-trigger/quiz"
+FINAL_CTA_WEBHOOK_URL: "https://services.leadconnectorhq.com/hooks/KSMA_PLACEHOLDER/webhook-trigger/final"
+BOOKING_CALENDAR_URL: "https://api.leadconnectorhq.com/widget/group/KSMA_PLACEHOLDER"
+
+# ── Privacy policy ────────────────────────────────────────────────────────────
+PRIVACY_POLICY_URL: "https://ksmartialartsatlanta.com/privacy-policy"
